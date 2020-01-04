@@ -2,7 +2,7 @@
     <img src="https://user-images.githubusercontent.com/40871836/43494176-172b4bc4-94f7-11e8-8d62-48f29b16ff97.png">
 </p>
 
-# About Krypta
+# Krypta
 <p align="left">
     <!-- Version -->
     <img src="https://img.shields.io/badge/version-0.2.2-brightgreen.svg">
