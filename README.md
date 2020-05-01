@@ -66,7 +66,7 @@ You hereby take responsibility for any data loss which may occur while using thi
 The technical documentation of Krypta should serve as a guide and will hopefully answer any questions you may have while using the software. With this in mind, I hope you enjoy using Krypta and will continue doing so.
 
 # License
-Copyright © ∞ Jason Drawdy (CloneMerge)
+Copyright © ∞ Jason Drawdy 
 
 All rights reserved.
 
